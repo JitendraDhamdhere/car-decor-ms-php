@@ -27,7 +27,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Shopping | User Sign up</title>
+        <title>CDMS | User Sign up</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap icons-->

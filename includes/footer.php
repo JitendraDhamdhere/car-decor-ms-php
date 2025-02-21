@@ -59,7 +59,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>New Delhi, Delhi</p>
+                    <p>Modern College,ShivajiNagar pune -05</p>
                 </div>
             </li>
 
@@ -71,7 +71,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>(011) 000000000000<br>(011) 000000000000</p>
+                    <p>+91 9096716519  </p>
                 </div>
             </li>
 
@@ -83,7 +83,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <span><a href="#">test@test.com</a></span>
+                    <span><a href="#">info@cardecoremanagementsystem.com</a></span>
                 </div>
             </li>
               

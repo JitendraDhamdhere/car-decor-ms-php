@@ -31,7 +31,7 @@ exit();
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Shopping Portal | Admin login</title>
+	<title>Car Decor Management System | Admin login</title>
 	<link type="text/css" href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	<link type="text/css" href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
 	<link type="text/css" href="css/theme.css" rel="stylesheet">
@@ -48,14 +48,14 @@ exit();
 				</a>
 
 			  	<a class="brand" href="../index.php">
-			  		Shopping Portal | Admin
+			  		Car Decor Management System | Admin
 			  	</a>
 
 				<div class="nav-collapse collapse navbar-inverse-collapse">
 				
 					<ul class="nav pull-right">
 
-						<li><a href="http://localhost/shopping/">
+						<li><a href="http://localhost/cdms/">
 						Back to Portal
 						
 						</a></li>
@@ -110,7 +110,7 @@ exit();
 		<div class="container">
 			 
 
-			<b class="copyright"> Shopping Portal </b>
+			<b class="copyright"> Car Decor Management System </b>
 		</div>
 	</div>
 	<script src="scripts/jquery-1.9.1.min.js" type="text/javascript"></script>

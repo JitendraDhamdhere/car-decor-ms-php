@@ -2,6 +2,6 @@
 		<div class="container">
 			 
 
-			<b class="copyright">&copy;  Shopping Portal </b>
+			<b class="copyright">&copy;  Car Decor Management System </b>
 		</div>
 	</div>

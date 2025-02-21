@@ -6,7 +6,7 @@
 				</a>
 
 			  	<a class="brand" href="#">
-			  		Shopping Portal | Admin
+			  		Car Decor Management System | Admin
 			  	</a>
 
 				<div class="nav-collapse collapse navbar-inverse-collapse">
